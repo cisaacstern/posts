@@ -17,4 +17,6 @@ responsiveness I was after.
 
 Enter React.
 
-When I started this journey I didn't expect to be using JavaScript. But one thing leads to another, and here we are.
+When I started this journey I didn't expect to be using JavaScript. But one thing leads to another, and here we are. Generally, I try to choose the most mainstream
+tool for a given job, so charts like [this]() were helpful. These [awards](https://www.awwwards.com/websites/reactjsdah/) also gave me a sense of what was
+possible. Clearly, React gave room to grow.
