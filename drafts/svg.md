@@ -36,3 +36,5 @@ def headshot(image, sigma, levels, cmap):
 ```
 
 And here's the part where we add Panel...
+
+Before the SVG is added to material-ui with [this approach](https://material-ui.com/components/icons/#svgicon), it is optimized with [svgo](https://github.com/svg/svgo), which can also be used with Jake Archibald's [web GUI](https://jakearchibald.github.io/svgomg/).
