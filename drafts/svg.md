@@ -35,6 +35,7 @@ def headshot(image, sigma, levels, cmap):
     return plt.show()
 ```
 
-And here's the part where we add Panel...
-
 Before the SVG is added to material-ui with [this approach](https://material-ui.com/components/icons/#svgicon), it is optimized with [svgo](https://github.com/svg/svgo), which can also be used with Jake Archibald's [web GUI](https://jakearchibald.github.io/svgomg/).
+
+Admittedly, it wasn't totally clear to me how to translate the svg into a usable material-ui icon, in large part because the official documentation
+does not account for a multicolor icon. This [medium post](https://medium.com/blueeast/changing-a-multicolor-svg-icon-of-type-svg-into-react-component-using-materialui-svgicon-component-d7958026ef9) helped fill in some of those gaps.
