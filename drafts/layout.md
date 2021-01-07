@@ -6,7 +6,7 @@ The availability of a range of themes to choose from was also a plus, and I real
 
 I also knew that I wanted a portfolio page, and really appreciated the simplicity of static pages like [Stargirl's](https://thea.codes/stuff.html).
 
-Similarly, I admired static About Me pages like those of [Kenneth Love](https://thekennethlove.com/) and [David Thompson](https://thebeardydeveloper.com/).
+Similarly, I admired static About Me pages like those of [Kenneth Love](https://thekennethlove.com/) and [David Thompson](https://thebeardydeveloper.com/). Particular credit is due to Love for [link styling](https://github.com/kennethlove/kennethlove.github.io/blob/master/themes/editor/static/src/kennethlove.scss).
 
 One thing missing from all of the static sites above, was dynamic content. In addition to static code examples in this blog, I knew I wanted to feature interactive
 code experiences as well. I simply love interactive scientific modules like Rowan Cockett's [Taylor Series](https://row1.ca/taylor-series) and Henri Drake's climate
