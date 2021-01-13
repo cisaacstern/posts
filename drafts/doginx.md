@@ -12,5 +12,8 @@ Then define `USERNAME=<your_github_username>` and `PANELAPP=<your_panel_app_repo
 
 Then run `git submodule init github.com/$USERNAME/$PANELAPP.git services/web/$PANELAPP`.
 
+You cab now verify that your app works changing to the `services/web` directory and running `panel serve $REPONAME/app.py --show`.
+
 Then in open `services/web/manage.py` and change the import path. 
 ### Note to self: change ^this^ so that `manage.py` runs off a `config.toml`, like Marc's site.
+
